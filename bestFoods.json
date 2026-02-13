@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Dan Dan Noodles",
+    "price": "11.50",
+    "image_path": "https://static01.nyt.com/images/2025/11/10/multimedia/10FD-KOREX-GK-dan-dan-noodles-vjpk/10FD-KOREX-GK-dan-dan-noodles-vjpk-mediumSquareAt3X.jpg",
+    "duration_id": "1"
+  },
+  {
+    "id": "3",
+    "name": "Sichuan Mala Hotpot",
+    "price": "28.00",
+    "image_path": "https://i0.wp.com/blog.themalamarket.com/wp-content/uploads/2020/11/hot-pot-in-stainless-pot-v2.jpg?fit=2378%2C1784&ssl=1",
+    "duration_id": "1"
+  },
+  {
+    "id": "5",
+    "name": "Roast Duck Rice",
+    "price": "22.00",
+    "image_path": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "2"
+  },
+  {
+    "id": "7",
+    "name": "Shrimp Dumplings",
+    "price": "8.50",
+    "image_path": "https://images.unsplash.com/photo-1559628233-7bdd54dbbfbd?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "3"
+  },
+  {
+    "id": "9",
+    "name": "BBQ Pork Buns",
+    "price": "7.50",
+    "image_path": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "3"
+  },
+  {
+    "id": "11",
+    "name": "Egg Tart",
+    "price": "4.00",
+    "image_path": "https://images.unsplash.com/photo-1562967916-eb82221dfb38?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "1"
+  },
+  {
+    "id": "13",
+    "name": "Beijing Zhajiang Noodles",
+    "price": "12.00",
+    "image_path": "https://images.unsplash.com/photo-1589308078059-d46f52be7c44?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "2"
+  },
+  {
+    "id": "16",
+    "name": "Shanghai Clear Broth Hotpot",
+    "price": "26.00",
+    "image_path": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "3"
+  },
+  {
+    "id": "19",
+    "name": "Sesame Balls",
+    "price": "6.00",
+    "image_path": "https://images.unsplash.com/photo-1562967916-eb82221dfb38?auto=format&fit=crop&w=1080&q=80",
+    "duration_id": "3"
+  }
+]
